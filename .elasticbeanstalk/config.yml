@@ -1,0 +1,20 @@
+branch-defaults:
+  default:
+    environment: project2-jeffrey-udagram-dev
+    group_suffix: null
+deploy:
+  artifact: ./www/Archive.zip
+global:
+  application_name: project2-jeffrey-udagram
+  branch: null
+  default_ec2_keyname: udacity_cloud_developer_2
+  default_platform: Node.js
+  default_region: us-east-1
+  include_git_submodules: true
+  instance_profile: null
+  platform_name: null
+  platform_version: null
+  profile: null
+  repository: null
+  sc: null
+  workspace_type: Application
