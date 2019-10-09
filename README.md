@@ -1,4 +1,4 @@
-# Project 2: Udagram Image Filtering Microservice Url:
+# Project 2: Udagram Image Filtering Microservice Url
 
 http://project2-jeffrey-udagram-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url={fullUrlLinkOfPicture}
 
